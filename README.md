@@ -3,6 +3,6 @@
 - Performed comparative analysis to determine a reduction of approximately 85% in the time taken by using 80 processes for a problem size of 20,000 words.
 
 ## Results
-![hippo](Results/SampleSolved.png)
-![hippo](Results/ResultsTable.png)
-![hippo](Results/Speedup_graphs.png)
+![hippo](result/SampleSolved.png)
+![hippo](result/ResultsTable.png)
+![hippo](result/Speedup_graphs.png)
